@@ -1,0 +1,2 @@
+description = "Create versioned Tokencut memory summary"
+prompt = "Run Tokencut memory compression for {{args}}. Preserve code blocks, links, commands, and produce a compact versioned summary with metrics."

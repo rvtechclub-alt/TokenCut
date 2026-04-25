@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node hooks/tokencut-activate.js",
+            "timeout": 5,
+            "statusMessage": "Loading Tokencut mode"
+          }
+        ]
+      }
+    ]
+  }
+}

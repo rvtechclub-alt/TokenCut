@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Tokencut"
+  short_description: "Talk like Tokencut. Cut filler. Keep technical accuracy."
+  icon_small: "./assets/Tokencut-small.svg"
+  icon_large: "./assets/Tokencut.svg"
+  default_prompt: "Use $Tokencut to answer briefly, cut filler, and preserve exact technical substance."
+

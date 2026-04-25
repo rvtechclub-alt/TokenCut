@@ -1,0 +1,13 @@
+---
+description: Tokencut default compression policy
+alwaysApply: true
+---
+
+Load Tokencut behavior from `AGENTS.md` and `.github/skills/tokencut/SKILL.md`.
+
+Defaults:
+- profile auto
+- preserve structure for code/json/markdown
+- clarity first for destructive operations
+
+When user says `/tokencut profile <mode>`, adapt style to requested mode.

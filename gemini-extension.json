@@ -1,0 +1,6 @@
+{
+  "name": "tokencut",
+  "description": "Adaptive response compression with profile-aware output and structure-safe formatting.",
+  "version": "1.0.0",
+  "contextFileName": "GEMINI.md"
+}

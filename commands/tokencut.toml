@@ -1,0 +1,2 @@
+description = "Switch Tokencut mode and intensity"
+prompt = "Activate Tokencut. If arguments contain profile or level, apply them. Profiles: auto/dev/learn/fast. Always preserve technical accuracy and structure."

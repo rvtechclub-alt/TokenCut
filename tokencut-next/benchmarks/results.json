@@ -1,0 +1,32 @@
+[
+  {
+    "sample": "Sure! I would be happy to help you debug this authentication issue. The likely problem is token expiry validation happening after signature verification.",
+    "normal_tokens": 29,
+    "Tokencut_tokens": 23,
+    "tokencut_tokens": 28,
+    "normal_clarity": 0.82,
+    "Tokencut_clarity": 0.82,
+    "tokencut_clarity": 0.82,
+    "tokencut_ratio": 0.966
+  },
+  {
+    "sample": "Explain connection pooling in detail and include why this improves throughput while reducing latency for high request volume.",
+    "normal_tokens": 23,
+    "Tokencut_tokens": 23,
+    "tokencut_tokens": 23,
+    "normal_clarity": 0.74,
+    "Tokencut_clarity": 0.74,
+    "tokencut_clarity": 0.74,
+    "tokencut_ratio": 1.0
+  },
+  {
+    "sample": "Write a concise review for this pull request. Mention risks, behavior regressions, and missing tests.",
+    "normal_tokens": 19,
+    "Tokencut_tokens": 18,
+    "tokencut_tokens": 19,
+    "normal_clarity": 0.82,
+    "Tokencut_clarity": 0.82,
+    "tokencut_clarity": 0.82,
+    "tokencut_ratio": 1.0
+  }
+]
